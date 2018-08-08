@@ -28,7 +28,7 @@ because we already have an address. Please open <b>contractInstance.js</b> to fi
 
 &nbsp; &nbsp; 1.&nbsp;git clone https://github.com/sushreesoumya1/HospAppEthereum.git<br/>
 &nbsp; &nbsp; 2.&nbsp;Open the HospAppEthereum in Command Promptand execute the following:<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - <b>cd .\ethereum\</b><br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - <b>cd .\ethereum\ </b><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - <b>node compile.js</b><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - <b>node deploy.js</b> &nbsp; &nbsp;<i>(you can skip this for now)</i><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - copy the contract address from the console and paste it in <b>contractInstance.js</b> <br/>
