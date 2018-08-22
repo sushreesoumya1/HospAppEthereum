@@ -8,7 +8,7 @@ In order to run an application on top of Ethereum, you need two things:<br/>
 
 <b><i>NOTE 1:</i></b><br/>
 <i>
-If you check the code in <b>compile.js</b> that has been placed inside a folder named <b>"etethreum"</b>,<br/>
+If you check the code in <b>compile.js</b> that has been placed inside a folder named <b>"ethereum"</b>,<br/>
 you'll see that a piece of code has been written to create a folder named <b>"build"</b><br/>
 that will have the <b>ABI</b> inside it. Moreover, when you recompile the smart contract, <br/>
 the build folder will be deleted and a <b>new folder</b> named "build" will be created.
